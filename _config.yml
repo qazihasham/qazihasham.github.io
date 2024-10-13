@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mhq.png"
+  avatar           : "profile.png"
   name             : "Muhammad Hasham Qazi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Karachi, Pakistan"
-  employer         : "Habib University"
+  employer         : "Habib University, FortunaXR, Astera Software"
   uri              : # URL
   email            : "qazihasham@gmail.com" 
 
