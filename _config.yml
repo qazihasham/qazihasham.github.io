@@ -50,14 +50,14 @@ author:
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : Hello
+  flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/m-hasham-qazi/"
+  linkedin         : m-hasham-qazi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -65,12 +65,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/qazihasham"
+  twitter          : qazihasham
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://www.youtube.com/@muhammadhashamqazi4499/videos"
+  youtube          : muhammadhashamqazi4499
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
