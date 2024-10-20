@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+.align-right {
+    float: right;
+    margin-left: 20px;
+    max-width: 50%; /* Adjust width based on your preference */
+}
