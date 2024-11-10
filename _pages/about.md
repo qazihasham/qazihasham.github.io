@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a recent graduate from Habib University, where I earned my Bachelor of Science in Electrical Engineering, graduating with top honors. My academic and research journey has been driven by a passion for exploring the intersections of Human-Computer Interaction, Artificial Intelligence, Computer Graphics, and Extended Reality. I am actively seeking PhD positions for Fall 2025 in these areas.
+I am a recent graduate from Habib University, where I earned my Bachelor of Science in Electrical Engineering, graduating with top honors. My academic and research journey has been driven by a passion for exploring the intersections of Human-Computer Interaction, Artificial Intelligence, Computer Graphics, and Extended Reality.
 
 During my undergrad, I worked on both hardware and software projects, and I love finding ways to bring the two together. Anything that involves people and technology working side by side is where I feel most at home!
 
