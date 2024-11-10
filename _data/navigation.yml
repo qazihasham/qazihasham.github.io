@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=CsHNtOkAAAAJ
 
   # - title: "Talks"
   #   url: /talks/    
@@ -14,14 +14,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Academic Service"
-    url: /academic-service/ 
+  #- title: "Academic Service"
+  #  url: /academic-service/ 
 
-  - title: "Certificates"
-    url: /certificates/
+  #- title: "Certificates"
+  #   url: /certificates/
 
-  - title: "Hobbies"
-    url: /hobbies/
+  #- title: "Hobbies"
+  #   url: /hobbies/
     
   - title: "CV"
     url: /files/Resume.pdf

@@ -18,4 +18,4 @@ In terms of real-world applications, I focus on designing solutions for Educatio
 
 With a natural curiosity and a strong drive for continuous learning, I am always eager to explore new domains and tackle emerging challenges within and adjacent to these fields.
 
-![Alt text](images\areas2x.drawio.png)
+![Alt text](images\areas (1).png)
