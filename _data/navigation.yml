@@ -11,11 +11,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Portfolio"
+  - title: "Research Portfolio"
     url: https://docs.google.com/presentation/d/1qhZdPrVUVg7T_GH4aY2nWaAzGCPzlxVMJ9xn-hKFt9U/edit?usp=sharing
 
   #- title: "Academic Service"
   #  url: /academic-service/ 
+
+  - title: "Design Portfolio"
+    url: https://www.behance.net/qazihashameaa0
 
   #- title: "Certificates"
   #   url: /certificates/
@@ -24,7 +27,7 @@ main:
   #   url: /hobbies/
     
   - title: "CV"
-    url: /files/Resume.pdf
+    url: /files/MHQ_Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
